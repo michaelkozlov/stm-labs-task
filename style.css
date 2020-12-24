@@ -3,12 +3,16 @@
     padding: 0;
 }
 
-a{
+.git a{
     color: #fff;
 }
 
-a:hover{
+.git a:hover{
     color: #CC84B2;
+}
+
+.git a:visited{
+    color: #31334A;
 }
 
 :active, :hover, :focus {
