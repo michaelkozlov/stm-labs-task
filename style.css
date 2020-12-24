@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+a{
+    color: #fff;
+}
+
+a:hover{
+    color: #CC84B2;
+}
+
 :active, :hover, :focus {
     outline: 0;
     outline-offset: 0;
